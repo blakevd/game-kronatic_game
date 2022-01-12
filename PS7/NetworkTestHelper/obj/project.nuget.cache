@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UsDn2J7FDGnSC2OUR3bYKPn7j7L0RM+6bSMVw+AzftzqYTq8SdRxkrgUdN6T033SjM9BdyjgPEPJNAPM5YDbhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blake\\source\\repos\\game-kronatic_game-Resume\\PS7\\NetworkTestHelper\\NetworkTestHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blake\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

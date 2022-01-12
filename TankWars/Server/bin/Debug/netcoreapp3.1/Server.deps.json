@@ -1,0 +1,181 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Server/1.0.0": {
+        "dependencies": {
+          "Beam": "1.0.0",
+          "ControlCommand": "1.0.0",
+          "NetworkController": "1.0.0",
+          "Newtonsoft.Json": "13.0.1",
+          "Powerup": "1.0.0",
+          "Projectile": "1.0.0",
+          "Tank": "1.0.0",
+          "Vector2D": "1.0.0",
+          "Wall": "1.0.0",
+          "World": "1.0.0"
+        },
+        "runtime": {
+          "Server.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Beam/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "Vector2D": "1.0.0"
+        },
+        "runtime": {
+          "Beam.dll": {}
+        }
+      },
+      "ControlCommand/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "Vector2D": "1.0.0"
+        },
+        "runtime": {
+          "ControlCommand.dll": {}
+        }
+      },
+      "NetworkController/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "NetworkController.dll": {}
+        }
+      },
+      "Powerup/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "Vector2D": "1.0.0"
+        },
+        "runtime": {
+          "Powerup.dll": {}
+        }
+      },
+      "Projectile/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "Vector2D": "1.0.0",
+          "Wall": "1.0.0"
+        },
+        "runtime": {
+          "Projectile.dll": {}
+        }
+      },
+      "Tank/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "Vector2D": "1.0.0",
+          "Wall": "1.0.0"
+        },
+        "runtime": {
+          "Tank.dll": {}
+        }
+      },
+      "Vector2D/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "Vector2D.dll": {}
+        }
+      },
+      "Wall/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "Vector2D": "1.0.0"
+        },
+        "runtime": {
+          "Wall.dll": {}
+        }
+      },
+      "World/1.0.0": {
+        "dependencies": {
+          "Beam": "1.0.0",
+          "ControlCommand": "1.0.0",
+          "Newtonsoft.Json": "13.0.1",
+          "Powerup": "1.0.0",
+          "Projectile": "1.0.0",
+          "Tank": "1.0.0",
+          "Wall": "1.0.0"
+        },
+        "runtime": {
+          "World.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Beam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlCommand/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkController/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Powerup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projectile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vector2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "World/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

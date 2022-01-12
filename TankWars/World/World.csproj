@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Beam\Beam.csproj" />
+    <ProjectReference Include="..\ControlCommand\ControlCommand.csproj" />
+    <ProjectReference Include="..\Powerup\Powerup.csproj" />
+    <ProjectReference Include="..\Projectile\Projectile.csproj" />
+    <ProjectReference Include="..\Tank\Tank.csproj" />
+    <ProjectReference Include="..\Wall\Wall.csproj" />
+  </ItemGroup>
+
+</Project>

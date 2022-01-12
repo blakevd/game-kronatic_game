@@ -1,0 +1,13 @@
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\bin\Debug\netstandard2.0\ControlCommand.deps.json
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\bin\Debug\netstandard2.0\ControlCommand.dll
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\bin\Debug\netstandard2.0\ControlCommand.pdb
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\obj\Debug\netstandard2.0\ControlCommand.csproj.AssemblyReference.cache
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\obj\Debug\netstandard2.0\ControlCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\obj\Debug\netstandard2.0\ControlCommand.AssemblyInfoInputs.cache
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\obj\Debug\netstandard2.0\ControlCommand.AssemblyInfo.cs
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\obj\Debug\netstandard2.0\ControlCommand.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\obj\Debug\netstandard2.0\ControlCommand.csproj.CopyComplete
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\obj\Debug\netstandard2.0\ControlCommand.dll
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\ControlCommand\obj\Debug\netstandard2.0\ControlCommand.pdb

@@ -1,0 +1,13 @@
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\bin\Debug\netstandard2.0\Beam.deps.json
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\bin\Debug\netstandard2.0\Beam.dll
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\bin\Debug\netstandard2.0\Beam.pdb
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\obj\Debug\netstandard2.0\Beam.csproj.AssemblyReference.cache
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\obj\Debug\netstandard2.0\Beam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\obj\Debug\netstandard2.0\Beam.AssemblyInfoInputs.cache
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\obj\Debug\netstandard2.0\Beam.AssemblyInfo.cs
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\obj\Debug\netstandard2.0\Beam.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\obj\Debug\netstandard2.0\Beam.csproj.CopyComplete
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\obj\Debug\netstandard2.0\Beam.dll
+C:\Users\blake\source\repos\game-kronatic_game\TankWars\Beam\obj\Debug\netstandard2.0\Beam.pdb
