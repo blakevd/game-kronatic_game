@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PS7",
+    "\\PS7\\NetworkController"
   ],
+  "SelectedNode": "\\PS7\\NetworkController\\SocketState.cs",
   "PreviewInSolutionExplorer": false
 }
